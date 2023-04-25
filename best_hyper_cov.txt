@@ -1,0 +1,1 @@
+{'in_len': 32, 'out_len': 1, 'lstm_layers': 2, 'num_attention_heads': 7, 'dropout': 0.21537901641128976, 'lr': 0.011856175633060082, 'include_hour': False}

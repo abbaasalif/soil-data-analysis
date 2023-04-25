@@ -1,0 +1,9 @@
+{
+  "dropout": 0.10562750523052751,
+  "in_len": 16,
+  "include_hour": true,
+  "lr": 0.0016499643555286782,
+  "lstm_layers": 2,
+  "num_attention_heads": 8,
+  "out_len": 11
+}
